@@ -1,0 +1,11 @@
+[general]
+load = true
+
+[sample]
+project = CEU
+batch = trio.2010_03
+version = 0
+
+[vcf]
+file = CEU.trio.2010_03.genotypes.annotated.vcf
+md5 = e9845819bbf11b270a980874d4f64398
